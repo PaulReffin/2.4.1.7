@@ -7,6 +7,8 @@ print(total_apples)
 print("")
 amps=3
 volts=5
+print("Find the value for power")
+print("")
 print("3 Amps", "5 Volts", sep=", ")
 print("")
 print("     *     ")
